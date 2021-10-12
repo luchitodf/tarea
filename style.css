@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(107, 106, 106) ;
+
+}
+h1 {
+    color: rgb(156, 234, 236);
+    font-size: 60px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border-radius:  500px;
+    
+   
+}
+.paquetedeimg {
+    text-align: center ;
+}
+
+.sobremi {
+    text-align: center;
+}
+
+.lista {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    list-style-type: circle;
+    width: 600px;
+    
+}
+.listita {
+    text-align: center;
+}
+
+.formulario {
+    text-align: center;
+    
+}
+
+
+
+    
