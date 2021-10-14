@@ -1,7 +1,14 @@
+* {
+    margin: 0%;
+    padding: 0.5%;
+    box-sizing:border-box ;
+}
+
 body {
     background-color: rgb(107, 106, 106) ;
 
 }
+
 h1 {
     color: rgb(156, 234, 236);
     font-size: 60px;
@@ -14,28 +21,26 @@ img {
     
    
 }
+
 .paquetedeimg {
     text-align: center ;
 }
 
 .sobremi {
     text-align: center;
+    
+    
 }
 
 .lista {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    list-style-type: circle;
-    width: 600px;
-    
+    list-style-position: inside;
 }
-.listita {
-    text-align: center;
-}
+
+
 
 .formulario {
     text-align: center;
+
     
 }
 
